@@ -1,0 +1,10 @@
+langchain
+langchain-core
+python-dotenv
+openai
+tiktoken
+transformers
+torch
+langchain-deepseek
+matplotlib
+numpy
